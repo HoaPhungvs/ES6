@@ -1,0 +1,45 @@
+{
+  "projectList": [
+    {
+      "id": 3,
+      "title": "Dự án mẫu",
+      "description": "Dự án xây dựng 1 trang web bán đồ điện tử sử dụng các ngôn ngữ PHP, HTML, CSS, JS",
+      "image": "https://res.cloudinary.com/difmqasye/image/upload/v1686529866/cld-sample-4.jpg",
+      "url": "https://ap.poly.edu.vn/sinh-vien/lich-hoc",
+      "repository": "https://github.com/hoaphungvt-vp-7423456789"
+    },
+    {
+      "title": "Dự án 1",
+      "description": "Dự án xây dựng 1 trang web bán đồng hồ sử dụng các ngôn ngữ PHP, HTML, CSS, JS ",
+      "image": "https://res.cloudinary.com/difmqasye/image/upload/v1686572957/Screenshot_2023-06-12_192702_k0ug33.png",
+      "url": "fijefa",
+      "repository": "da",
+      "id": 4
+    },
+    {
+      "title": "PHP",
+      "description": "Xây dựng một trang web với chức năng thêm sửa xóa bằng ngôn ngữ",
+      "image": "https://res.cloudinary.com/difmqasye/image/upload/v1686529866/cld-sample-5.jpg",
+      "url": "fijefa",
+      "repository": "da",
+      "id": 6
+    },
+    {
+      "title": "Javasript",
+      "description": "Dự án xây dựng 1 trang web bán hàng sử dụng các ngôn ngữ JS",
+      "image": "https://res.cloudinary.com/difmqasye/image/upload/v1686532472/html-css-js-course-intro_gvx2zb.jpg",
+      "url": "fijefa",
+      "repository": "da",
+      "id": 7
+    }
+    
+
+  ],
+  "aboutList": [
+    {
+      "description": "My name is Hoa, 20 years old and currently learning web programming. Having a creative background has made me empathetic, open, confident, and forthright in my interpersonal interactions. Since I can communicate ideas graphically and communicate well in oral and written languages, I want to work where I can expand on my existing skills and develop others.",
+      "image": "https://res.cloudinary.com/difmqasye/image/upload/v1686568746/IU11_nqgtwi.jpg",
+      "id": 1
+    }
+  ]
+}
